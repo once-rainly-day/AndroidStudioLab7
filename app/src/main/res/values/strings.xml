@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Let`s paint!</string>
+    <string name="menu_erase">Eraser...</string>
+    <string name="menu_new">Clear...</string>
+    <string name="menu_save">Save...</string>
+    <string name="menu_color">Change color</string>
+    <string name="menu_width">Change width</string>
+    <string name="pic_saved">Saved!</string>
+</resources>
